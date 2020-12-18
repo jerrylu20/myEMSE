@@ -1,7 +1,7 @@
 /*------------------------------------------------------------------------------------------------------/
 | Program : ACA_APO_Before_AddressVerification.js
 | Event   : ACA_APO_Before_AddressVerification
-| Modified file at 12:38PM PST more changes
+| Modified file at 12:46PM PST more changes
 | Usage   : Master Script by Accela.  See accompanying documentation and release notes.
 |
 | Client  : Oakland
@@ -23,7 +23,7 @@ var showDebug = false; // Set to true to see debug messages in popup window
 var useAppSpecificGroupName = false; // Use Group name when populating App Specific Info Values
 var useTaskSpecificGroupName = false; // Use Group name when populating Task Specific Info Values
 //add new param
-var useTaskSpecificGroupName2 = false; // Use Group name when populating Task Specific Info Values
+var useTaskSpecificGroupName21 = false; // Use Group name when populating Task Specific Info Values
 var cancel = false;
 var maxEntries = 99;							// Maximum number of std choice entries.  Entries must be Left Zero Padded
 /*------------------------------------------------------------------------------------------------------/
