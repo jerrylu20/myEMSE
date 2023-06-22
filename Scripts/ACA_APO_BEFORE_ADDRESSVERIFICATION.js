@@ -35,6 +35,9 @@ var message = ""; // Message String
 var debug = ""; // Debug String
 var br = "<BR>"; // Break Tag
 
+//Modify this line to test diff and pull Button
+var aa.print("Modify this line to test diff and pull Button");
+
 var useSA = false;
 var SA = null;
 var SAScript = null;
